@@ -12,8 +12,8 @@ backend и данные — на те части системы, где слож
 
 | Проект | Что это | Стек |
 |---|---|---|
-| [Сайт-портфолио](https://github.com/MeldanLess/portfolio-site) | Этот сайт: статичные HTML, CSS и vanilla JS. Без шага сборки, без зависимостей, без сторонних запросов — 43 КБ целиком. | HTML · CSS · JS · GitHub Actions |
-| [REST API](https://github.com/MeldanLess/rest-api) | Трекер откликов на вакансии: JWT-аутентификация, миграции Alembic, документация OpenAPI и 68 тестов против настоящего экземпляра PostgreSQL. | FastAPI · SQLAlchemy · PostgreSQL · Docker |
+| [Сайт-портфолио](https://github.com/MeldanLess/portfolio-site) | Этот сайт: статичные HTML, CSS и vanilla JS. Без шага сборки, без зависимостей, без сторонних запросов — 43 КБ целиком. Живёт на [GitHub Pages](https://meldanless.github.io/portfolio-site/). | HTML · CSS · JS · GitHub Actions |
+| [REST API](https://github.com/MeldanLess/rest-api) | Трекер откликов на вакансии: JWT-аутентификация, миграции Alembic, документация OpenAPI и 73 теста (покрытие 87%) против настоящего экземпляра PostgreSQL. | FastAPI · SQLAlchemy · PostgreSQL · Docker |
 
 Остальное портфолио — финансовый трекер на полном стеке, дашборд по рынку
 вакансий и Telegram-бот для планирования учёбы — в работе. Проекты появляются
