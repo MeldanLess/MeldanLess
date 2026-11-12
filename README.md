@@ -1,8 +1,8 @@
-# Your Name
+# Мелека Данила
 
 **Python · Backend · Данные · Автоматизация** — выпуск летом 2027
 
-`your-domain.com` · `you@example.com` · `linkedin.com/in/your-linkedin-handle`
+`meldanless.github.io/portfolio-site` · `danila.meleca@gmail.com`
 
 Студент IT-направления, выпуск летом 2027. Пишу на Python, делаю акцент на
 backend и данные — на те части системы, где сложность в модели, а не во
@@ -42,7 +42,7 @@ backend и данные — на те части системы, где слож
 
 <sub>Ищу junior-позицию backend, data или automation-разработчика — в Москве или
 удалённо. Параллельно рассматриваю стажировки.
-[Написать мне](https://your-domain.com/#contact)</sub>
+[Написать мне](https://meldanless.github.io/portfolio-site/#contact)</sub>
 
 <!--
 Этот файл живёт в специальном репозитории `<username>/<username>`, по пути
